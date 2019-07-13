@@ -1,6 +1,10 @@
 # xianyun
 
+<<<<<<< HEAD
 > My brilliant Nuxt.js project
+=======
+> My cat&#39;s pajamas Nuxt.js project
+>>>>>>> 1684d41fc5fdc73c8258d95903a4a30442346ce2
 
 ## Build Setup
 

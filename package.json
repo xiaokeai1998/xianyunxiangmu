@@ -1,7 +1,11 @@
 {
   "name": "xianyun",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "My brilliant Nuxt.js project",
+=======
+  "description": "My cat&#39;s pajamas Nuxt.js project",
+>>>>>>> 1684d41fc5fdc73c8258d95903a4a30442346ce2
   "author": "",
   "private": true,
   "scripts": {
@@ -12,6 +16,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
+<<<<<<< HEAD
     "element-ui": "^2.4.11",
     "nuxt": "^2.0.0",
     "vuex-persistedstate": "^2.5.4"
@@ -22,5 +27,11 @@
     "node-sass": "^4.12.0",
     "nodemon": "^1.18.9",
     "sass-loader": "^7.1.0"
+=======
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+>>>>>>> 1684d41fc5fdc73c8258d95903a4a30442346ce2
   }
 }

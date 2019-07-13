@@ -23,13 +23,19 @@ export default {
   ** Global CSS
   */
   css: [
+<<<<<<< HEAD
     'element-ui/lib/theme-chalk/index.css'
+=======
+>>>>>>> 1684d41fc5fdc73c8258d95903a4a30442346ce2
   ],
   /*
   ** Plugins to load before mounting the App
   */
   plugins: [
+<<<<<<< HEAD
     '@/plugins/element-ui'
+=======
+>>>>>>> 1684d41fc5fdc73c8258d95903a4a30442346ce2
   ],
   /*
   ** Nuxt.js modules
@@ -48,7 +54,10 @@ export default {
   ** Build configuration
   */
   build: {
+<<<<<<< HEAD
     transpile: [/^element-ui/],
+=======
+>>>>>>> 1684d41fc5fdc73c8258d95903a4a30442346ce2
     /*
     ** You can extend webpack config here
     */
